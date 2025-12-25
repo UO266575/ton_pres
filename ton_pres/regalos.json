@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Casco de esquí",
+        "descripcion": "Casco para esquiar u otras bobadas que me gusta hacer.",
+        "precio": 55.18,
+        "imagen": "https://m.media-amazon.com/images/I/91Rd0BkYbeL._AC_SX425_.jpg",
+        "link": "https://amzn.eu/d/asJ1wzq"
+    },
+    {
+        "nombre": "Philips OneBlade 360",
+        "descripcion": "Maquinilla",
+        "precio": 44.99,
+        "imagen": "https://m.media-amazon.com/images/I/81lLhuihD9L._AC_SL1500_.jpg",
+        "link": "https://amzn.eu/d/2WSyHGH"
+    },
+    {
+        "nombre": "Straps",
+        "descripcion": "Straps para el gym, para poner fuerte esa espalda juejue",
+        "precio": 9.99,
+        "imagen": "https://m.media-amazon.com/images/I/81P-YfWCq0L._AC_SL1500_.jpg",
+        "link": "https://amzn.eu/d/dexSPTl"
+    },
+    {
+        "nombre": "Albornoz",
+        "descripcion": "Albornoz para poder tirarme por ahí sin tener que secarme, estando calentito y con mucha clase.",
+        "precio": 25.99,
+        "imagen": "https://static.lefties.com/assets/public/c44e/6856/c1494a87a270/3427627f25b4/05244600070-A1/05244600070-A1.jpg?ts=1747815357990&w=0&f=auto/",
+        "link": "https://www.lefties.com/es/home/ba%C3%B1o/albornoz-rayas-capucha-c1030652096p690863981.html?colorId=070&parentId=690865414#fromsearch"
+    },
+    {
+        "nombre": "Camiseta de lana merino",
+        "descripcion": "Camiseta de lana merino para no oler a jabalí en las rutas.",
+        "precio": 0.00,
+        "imagen": "https://placehold.co/400x300?text=En+Elección",
+        "link": ""
+    }
+]
