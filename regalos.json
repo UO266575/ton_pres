@@ -33,5 +33,13 @@
         "precio": 0.00,
         "imagen": "https://placehold.co/400x300?text=En+Elección",
         "link": ""
+    },
+    {
+        "nombre": "Spray de defensa personal de pimienta de la marca Sabre Red",
+        "descripcion": "Para defenderme de maleantes y sobre todo de bichos malos en las rutas. Es un ejemplo esa tienda que sale bien con el envío pero lo único importante es la marca Sabre Red",
+        "precio": 17.50,
+        "imagen": "https://www.tiendashoke.es/20910-large_default/spray-defensa-sabre.jpg",
+        "link": "https://www.tiendashoke.es/sprays-sabre-red/spray-defensa-sabre"
     }
+
 ]
